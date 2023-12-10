@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-require './api/cdc.php';
+require '../API/cdc.php';
 
 
 // Aqui vai ter a parte da pagina da tabela price
